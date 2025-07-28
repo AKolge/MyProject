@@ -1,0 +1,5 @@
+2025-07-25 18:36:28,272 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2025-07-25 18:43:05,616 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/a9ski/quick-start/1.0.0/quick-start-1.0.0.pom
+2025-07-25 18:43:05,651 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/a9ski/quick-start/1.0.0/quick-start-1.0.0.pom
+2025-07-25 18:43:05,819 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/a9ski/quick-start/1.0.0/quick-start-1.0.0.jar
+2025-07-25 18:43:05,843 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/a9ski/quick-start/1.0.0/quick-start-1.0.0.jar
