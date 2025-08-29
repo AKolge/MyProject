@@ -1,0 +1,26 @@
+2025-08-18 19:27:39 INFO  com.example.demo.DemoApplication - Starting DemoApplication using Java 17.0.12 with PID 12044 (C:\Users\Akash kolge\Documents\sts_Workspace\demo\demo\target\classes started by Akash kolge in C:\Users\Akash kolge\Documents\sts_Workspace\demo\demo)
+2025-08-18 19:27:39 INFO  com.example.demo.DemoApplication - No active profile set, falling back to 1 default profile: "default"
+2025-08-18 19:27:39 INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-08-18 19:27:39 INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-08-18 19:27:40 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-08-18 19:27:40 INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2025-08-18 19:27:40 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-08-18 19:27:40 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.43]
+2025-08-18 19:27:40 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-08-18 19:27:40 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1366 ms
+2025-08-18 19:27:41 INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2025-08-18 19:27:41 INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 15 endpoints beneath base path '/actuator'
+2025-08-18 19:27:41 INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2025-08-18 19:27:41 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2025-08-18 19:27:41 INFO  com.example.demo.DemoApplication - Started DemoApplication in 3.099 seconds (process running for 3.918)
+2025-08-18 19:27:42 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-08-18 19:27:42 INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-08-18 19:27:42 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2025-08-18 19:27:45 WARN  d.c.b.a.c.r.ApplicationRegistrator - Failed to register application as Application(name=demo, managementUrl=http://192.168.1.2:8080/actuator, healthUrl=http://192.168.1.2:8080/actuator/health, serviceUrl=http://192.168.1.2:8080/) at spring-boot-admin ([http://localhost:8081/instances]): I/O error on POST request for "http://localhost:8081/instances": null. Further attempts are logged on DEBUG level
+2025-08-18 19:27:53 INFO  com.example.demo.MyController - inside greetMethod
+2025-08-18 19:27:58 INFO  com.example.demo.MyController - inside greetMethod
+2025-08-18 19:27:59 INFO  com.example.demo.MyController - inside greetMethod
+2025-08-18 19:28:54 INFO  com.example.demo.MyController - inside greetMethod
+2025-08-18 19:28:59 INFO  com.example.demo.MyController - inside greetMethod
+2025-08-18 19:29:59 INFO  com.example.demo.MyController - inside greetMethod
+2025-08-18 19:30:01 INFO  com.example.demo.MyController - inside greetMethod
